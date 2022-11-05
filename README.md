@@ -13,4 +13,4 @@ You can clone and run the XCode project, or just watch the video demo [here](htt
 
 ## Licence
 
-WTFPL
+Unlicense
